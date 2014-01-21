@@ -7,7 +7,7 @@ CSS is structures as follows:
 selector {
     property: value;
     property: value;
-    property: value
+    property: value;
 }
 
 Each selector is paired with and styles an element. For example:
